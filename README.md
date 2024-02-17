@@ -20,3 +20,5 @@ TraverCity extracts meaningful information from diverse datasets related to tour
 - Machine Learning
 
 Explore the repository and discover how it transforms data into actionable insights for the travel industry. 🌍✈️
+
+![Screenshot](travercity.png)
